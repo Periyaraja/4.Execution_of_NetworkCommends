@@ -27,6 +27,7 @@ This commands includes
 <BR>
 
 ## Output
+
 ## PING
 ![Screenshot 2024-10-16 135838](https://github.com/user-attachments/assets/3e9d3e80-aee0-4f4f-95dc-7ed937316298)
 
@@ -41,6 +42,22 @@ This commands includes
 
 ## FTP
 ![Screenshot 2024-10-16 140203](https://github.com/user-attachments/assets/fcd389e1-6821-4362-a0d6-c574ef226ec4)
+
+## NSLOOKUP
+![Screenshot 2024-10-21 154318](https://github.com/user-attachments/assets/3c6e8324-3155-4316-a661-44322e956220)
+
+## GETMAC
+![Screenshot 2024-10-21 154438](https://github.com/user-attachments/assets/ff1a3be4-6907-4ca4-8718-edc2b14bb827)
+
+## NBTSTAT
+![Screenshot 2024-10-21 154444](https://github.com/user-attachments/assets/648e2306-8e4f-4b9e-b34a-3a07ba26ee38)
+
+## ARP
+![Screenshot 2024-10-21 154453](https://github.com/user-attachments/assets/fe082dd6-d8b8-443a-89c4-dbe47306e969)
+
+## SYSTEMINFO
+![Screenshot 2024-10-21 154526](https://github.com/user-attachments/assets/2f11844c-5689-42c4-a61e-6445b67daefa)
+
 
 ## Result
 Thus Execution of Network commands Performed 
