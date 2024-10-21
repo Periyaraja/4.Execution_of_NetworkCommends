@@ -49,6 +49,9 @@ This commands includes
 ## GETMAC
 ![Screenshot 2024-10-21 154438](https://github.com/user-attachments/assets/ff1a3be4-6907-4ca4-8718-edc2b14bb827)
 
+## HOSTNAME
+![Screenshot 2024-10-21 154933](https://github.com/user-attachments/assets/89be27dd-6acc-48eb-922d-4be1a6d8999e)
+
 ## NBTSTAT
 ![Screenshot 2024-10-21 154444](https://github.com/user-attachments/assets/648e2306-8e4f-4b9e-b34a-3a07ba26ee38)
 
