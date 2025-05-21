@@ -50,7 +50,7 @@ This commands includes
 ![Screenshot 2024-10-21 154438](https://github.com/user-attachments/assets/ff1a3be4-6907-4ca4-8718-edc2b14bb827)
 
 ## HOSTNAME
-![Screenshot 2024-10-21 154933](https://github.com/user-attachments/assets/89be27dd-6acc-48eb-922d-4be1a6d8999e)
+![Screenshot 2025-05-21 212715](https://github.com/user-attachments/assets/10568c15-7ca9-4a5d-8c1d-2a5cc1ea547e)
 
 ## NBTSTAT
 ![Screenshot 2024-10-21 154444](https://github.com/user-attachments/assets/648e2306-8e4f-4b9e-b34a-3a07ba26ee38)
@@ -59,7 +59,8 @@ This commands includes
 ![Screenshot 2024-10-21 154453](https://github.com/user-attachments/assets/fe082dd6-d8b8-443a-89c4-dbe47306e969)
 
 ## SYSTEMINFO
-![Screenshot 2024-10-21 154526](https://github.com/user-attachments/assets/2f11844c-5689-42c4-a61e-6445b67daefa)
+![image](https://github.com/user-attachments/assets/6383913d-f15a-41b4-acef-4aefcba1e412)
+
 
 
 ## Result
